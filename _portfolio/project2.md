@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/2020年国际图像视频复原和增强大赛.png
 ---
 <p align="left">
-&ensp;&ensp;Use this area to describe your project. **Markdown** supported.
+&ensp;&ensp;
 </p>
 
 {:.list-inline}

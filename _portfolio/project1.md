@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/第十届吴文俊人工智能自然科学奖获奖名单（20项）.png
 ---
 <p align="left">
-&ensp;&ensp;Use this area to describe your project. **Markdown** supported. 
+&ensp;&ensp;
 </p>
 
 {:.list-inline}
