@@ -614,6 +614,8 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://www.qq.com/
             icon: fab fa-qq
+          - url: assets\cv\Yuan_Xie_CV.pdf
+            icon: fab fa-user
       - name: "谭鑫"
         role: "副研究员"
         image: assets/img/team/tanxin.png
