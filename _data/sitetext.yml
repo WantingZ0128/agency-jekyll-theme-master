@@ -226,8 +226,9 @@ en: &DEFAULT_EN
       - title: "Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception"
         author: "Haoming Chen, Zhizhong Zhang#, Yanyun Qu, Ruixin Zhang, Xin Tan, Yuan Xie*"
         publication: "CVPR, 2024"
-        url: 
-        image:
+        url: https://arxiv.org/pdf/2405.07201
+        code: https://github.com/chenhaomingbob/CSC
+        image: assets/paper_image/CSC.png
         image_height: 200
         image_width: 350
         new: True
@@ -235,30 +236,35 @@ en: &DEFAULT_EN
         author: "Qihang Ma#, Xin Tan#, Yanyun Qu, Lizhuang Ma, Zhizhong Zhang*, Yuan Xie"
         publication: "CVPR, 2024"
         url: https://arxiv.org/pdf/2312.01919.pdf
+        code: https://github.com/NotACracker/COTR
         image: assets/paper_image/COTR.png
-        image_height: 200
+        image_height: 170
         image_width: 350
         new: True
       - title: "Multi-modal In-Context Learning Makes an Ego-evolving Scene Text Recognizer"
         author: "Zhen Zhao, Jingqun Tang, Chunhui Lin, Binghong Wu, Can Huang, Hao Liu, Xin Tan, Zhizhong Zhang*, Yuan Xie"
         publication: "CVPR, 2024"
         url: https://arxiv.org/pdf/2311.13120.pdf
+        code: https://github.com/bytedance/E2STR
         image: assets\paper_image\Multi-modal_In-Context_Learning_Makes_an_Ego-evolving_Scene_Text_Recognizer.png
-        image_height: 200
+        image_height: 180
         image_width: 350
         new: True
       - title: "PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection"
         author: "Xiaofan Li, Zhizhong Zhang, Xin Tan*, Yanyun Qu, Chengwei Chen, Yuan Xie, Lizhuang Ma"
         publication: "CVPR, 2024"
         url: https://arxiv.org/pdf/2404.05231.pdf
+        code: https://github.com/FuNz-0/PromptAD
         image: assets\paper_image\PromptAD.png
-        image_height: 200
+        image_height: 170
         image_width: 350
         new: True
       - title: "Prompt Gradient Projection for Continual Learning"
         author: "Jingyang Qiao#, Zhizhong Zhang#, Xin Tan, Chengwei Chen, Yanyun Qu, Yong Peng, Yuan Xie*"
         publication: "ICLR, 2024 (Spotlight)"
         url: https://openreview.net/pdf?id=EH2O3h7sBI
+        project: https://dmcv-ecnu-pegp.github.io/
+        code: https://github.com/JingyangQiao/prompt-gradient-projection
         image: assets/paper_image/Prompt_Gradient_Projection_for_Continual Learning.png
         image_height: 200
         image_width: 350
@@ -267,32 +273,33 @@ en: &DEFAULT_EN
         author: "Hongquan Zhang, Bin-Bin Gao, Yi Zeng, Xudong Tian, Xin Tan, Zhizhong Zhang*, Yanyun Qu, Jun Liu, Yuan Xie"
         publication: "AAAI, 2024"
         url: https://ojs.aaai.org/index.php/AAAI/article/view/28537
-        image: 
-        image_height: 200
+        image: assets/paper_image/Learning_Task_Aware_Language-Image_Representation_for_CIOD.png
+        image_height: 150
         image_width: 350
         new: True
       - title: "Beyond the Label Itself: Latent Labels Enhance Semi-supervised Point Cloud Panoptic Segmentation"
         author: "Yujun Chen, Xin Tan*, Zhizhong Zhang, Yanyun Qu, Yuan Xie"
         publication: "AAAI, 2024"
         url: https://arxiv.org/pdf/2312.08234.pdf
-        image: 
-        image_height: 200
+        image: assets/paper_image/Beyond_the_Label_Itself.png
+        image_height: 150
         image_width: 350
         new: True
       - title: "SkipDiff: Adaptive Skip Diffusion Model for High-Fidelity Perception Image Super-resolution"
         author: "Xiaotong Luo, Yuan Xie, Yanyun Qu*, Yun Fu"
         publication: "AAAI, 2024"
         url: https://ojs.aaai.org/index.php/AAAI/article/view/28195
-        image: 
-        image_height: 200
+        image: assets/paper_image/SkipDiff.png
+        image_height: 150
         image_width: 350
         new: True
       - title: "CLIP-guided Federated Learning on Heterogeneity and Long-Tailed Data"
         author: "Jiangming Shi, Shanshan Zheng, Xiangbo Yin, Yang Lu, Yuan Xie, Yanyun Qu*"
         publication: "AAAI, 2024"
         url: https://arxiv.org/pdf/2312.08648.pdf
-        image: 
-        image_height: 200
+        code: https://github.com/shijiangming1/CLIP2FL
+        image: assets/paper_image/CLIP2FL.png
+        image_height: 170
         image_width: 350
         new: True
       - title: "Learning Re-sampling Methods with Parameter Attribution for Image Super-resolution"
@@ -300,7 +307,7 @@ en: &DEFAULT_EN
         publication: "NeurIPS, 2023"
         url: https://proceedings.neurips.cc/paper_files/paper/2023/file/8434e0db3227276c00ef2b18c7f01c65-Paper-Conference.pdf
         image: assets\paper_image\Learning_Re-sampling_Methods_with_Parameter_Attribution_for_Image_Super-resolution.png
-        image_height: 200
+        image_height: 170
         image_width: 350
         new: True
       - title: "Rethinking Gradient Projection Continual Learning: Stability/Plasticity Feature Space Decoupling"
@@ -308,7 +315,7 @@ en: &DEFAULT_EN
         publication: "CVPR, 2023"
         url: https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Rethinking_Gradient_Projection_Continual_Learning_Stability__Plasticity_Feature_Space_CVPR_2023_paper.pdf
         image: assets\paper_image\Rethinking_Gradient_Projection_Continual_Learning.png
-        image_height: 200
+        image_height: 150
         image_width: 350
         new: False
       - title: "Multi-Centroid Task Descriptor for Dynamic Class Incremental Inference"
@@ -331,7 +338,7 @@ en: &DEFAULT_EN
         author: "Yuxiang Lan, Yachao Zhang, Yanyun Qu*, Cong Wang, Yuan Xie*, Zongze Wu"
         publication: "AAAI, 2023"
         url: https://ojs.aaai.org/index.php/AAAI/article/view/25205/24977
-        image:
+        image: assets/paper_image/RPSC.png
         image_height: 200
         image_width: 350
         new: False
@@ -339,16 +346,17 @@ en: &DEFAULT_EN
         author: "Yanbo Wang, Chuming Lin, Donghao Luo, Ying Tai, Zhizhong Zhang*, Yuan Xie"
         publication: "AAAI, 2023"
         url: https://arxiv.org/pdf/2302.03406.pdf
-        image:
-        image_height: 200
+        image: assets/paper_image/CRI.png
+        code: https://github.com/Booooooooooo/CRI
+        image_height: 180
         image_width: 350
         new: False
       - title: "SpatialFormer: Semantic and Target Aware Attentions for Few-Shot Learning"
         author: "Jinxiang Lai, Siqian Yang, Wenlong Wu, Guannan Jiang, Xi Wang, Jun Liu, Bin-Bin Gao, Wei Zhang, Yuan Xie*, Chengjie Wang*"
         publication: "AAAI, 2023"
         url: https://arxiv.org/pdf/2303.09281.pdf
-        image:
-        image_height: 200
+        image: assets/paper_image/Spatialformer.png
+        image_height: 180
         image_width: 350
         new: False
       - title: "Optimization over Disentangled Encoding: Unsupervised Cross-Domain Point Cloud Completion via Occlusion Factor Manipulation"
@@ -631,7 +639,7 @@ en: &DEFAULT_EN
           - url: https://www.qq.com/
             icon: fab fa-qq
           - url: assets\cv\Yuan_Xie_CV_new.pdf
-            icon: fab fa-user
+            icon: fas fa-file
       - name: "谭鑫"
         role: "副研究员"
         image: assets/img/team/tanxin.png
